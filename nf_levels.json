@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-09-29T16:42:43.875Z",
+  "levels": {
+    "SPX": {
+      "gamma_pos_max": [],
+      "gamma_pos": [
+        7770,
+        7775,
+        7785,
+        7795,
+        7815
+      ],
+      "flip": [
+        7755
+      ],
+      "gamma_neg": [
+        7665,
+        7705,
+        7725,
+        7740
+      ],
+      "gamma_neg_max": [
+        7715
+      ]
+    },
+    "NDX": {
+      "gamma_pos_max": [],
+      "gamma_pos": [],
+      "flip": [],
+      "gamma_neg": [],
+      "gamma_neg_max": []
+    }
+  }
+}
