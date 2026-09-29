@@ -1,36 +1,8 @@
 {
-  "updated_at": "2026-09-29T16:42:45.195Z",
-  "levels": {
-    "SPX": {
-      "gamma_pos_max": [
-        7790
-      ],
-      "gamma_pos": [
-        7770,
-        7775,
-        7785,
-        7795,
-        7815
-      ],
-      "flip": [
-        7755
-      ],
-      "gamma_neg": [
-        7665,
-        7705,
-        7725,
-        7740
-      ],
-      "gamma_neg_max": [
-        7715
-      ]
-    },
-    "NDX": {
-      "gamma_pos_max": [],
-      "gamma_pos": [],
-      "flip": [],
-      "gamma_neg": [],
-      "gamma_neg_max": []
-    }
-  }
+    "gammaPos": "7775, 7795, 7815, 7770, 7785",
+    "maxPlus": "7790, 7790",
+    "gammaFlip": "7755",
+    "gammaNeg": "7665, 7740, 7725, 7705",
+    "maxMinus": "7715",
+    "expectedMove": "38"
 }
