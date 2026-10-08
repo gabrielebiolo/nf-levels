@@ -2,7 +2,7 @@
     "gammaPos": "7880, 7850, 7860, 7900",
     "maxPlus": "7875",
     "gammaFlip": "7835",
-    "gammaNeg": "",
+    "gammaNeg": "7830, 7770, 7750, 7810, 7800",
     "maxMinus": "7820",
     "expectedMove": "30"
 }
