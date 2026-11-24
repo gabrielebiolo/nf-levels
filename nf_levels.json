@@ -1,8 +1,8 @@
 {
-    "gammaPos": "7065, 7170, 7185, 7250",
-    "maxPlus": "7225",
-    "gammaFlip": "7045",
-    "gammaNeg": "7025, 6840, 6825, 6525, 6950, 6725",
-    "maxMinus": "6925",
+    "gammaPos": "",
+    "maxPlus": "",
+    "gammaFlip": "",
+    "gammaNeg": "",
+    "maxMinus": "",
     "expectedMove": "94"
 }
